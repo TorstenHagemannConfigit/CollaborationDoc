@@ -40,14 +40,17 @@ component_number_string = &quot;Number: &quot; + my_number;</text>
     <twoDElement xsi:type="comp:TwoDEllipse" uuid="_3HUloFc7EeWo-40Qyxiobw"
         name="Ellipse1" height="50.0" width="50.0" cursorsUsingMeForColor="_l2WtsHAIEeSePcy3DK4xYQ"
         strokeWidth="2">
+      <translation uuid="_nY2ZdE61EeifaPJuFumqbg"/>
       <bgColor href="../product_model.xml#_zyWRMGQEEeSDd6k47owxsA"/>
       <color href="../product_model.xml#N65572"/>
     </twoDElement>
     <twoDElement xsi:type="comp:TwoDText" uuid="_ODQ94HAGEeSePcy3DK4xYQ"
-        name="2DText1" translation="(8,21)" cursorsUsingMeForColor="_l2WtsHAIEeSePcy3DK4xYQ"
+        name="2DText1" cursorsUsingMeForColor="_l2WtsHAIEeSePcy3DK4xYQ"
         text="0" fontSize="16">
       <facets xsi:type="comp:TwoDDynamicTextFacet" uuid="_GDWkUKTqEea8d6P1JTl01w"
           textDynamic="my_number"/>
+      <translation uuid="_nY3AgU61EeifaPJuFumqbg" x="8.0"
+          z="21.0"/>
       <color href="../product_model.xml#N65572"/>
       <bgColor href="../product_model.xml#N65562"/>
     </twoDElement>
@@ -76,7 +79,7 @@ component_number_string = &quot;Number: &quot; + my_number;</text>
         position="(25,0,25)"/>
     <facets xsi:type="comp:ChainFacet" uuid="_dfvuMNNiEee4Q7NokZIK1A">
       <chains uuid="_enQI0NNiEee4Q7NokZIK1A" name="component_number_string"
-          value="" chained="parent_number_string" refVar="component_number_string"/>
+          chained="parent_number_string" refVar="component_number_string"/>
     </facets>
     <domain uuid="_85BCAVc8EeWo-40Qyxiobw" name="local"
         visibility="300">

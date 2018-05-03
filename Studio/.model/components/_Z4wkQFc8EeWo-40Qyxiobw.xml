@@ -20,6 +20,7 @@
       name="root">
     <twoDElement xsi:type="comp:TwoDPolyline" uuid="_jzquMFc8EeWo-40Qyxiobw"
         name="Polyline1" strokeWidth="2" points="((0,0)(18,0)(0,20)(-18,0)(0,0))">
+      <translation uuid="_nY9HIU61EeifaPJuFumqbg"/>
       <color href="../product_model.xml#_Dvuz8ce5EeK1ILHtYeZxPw"/>
       <bgColor href="../product_model.xml#_Dvuz8ce5EeK1ILHtYeZxPw"/>
     </twoDElement>

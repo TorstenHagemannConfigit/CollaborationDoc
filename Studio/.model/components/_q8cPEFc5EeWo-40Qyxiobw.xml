@@ -29,12 +29,15 @@
         strokeWidth="2">
       <facets xsi:type="comp:TwoDDynamicSizeFacet" uuid="_GDAmEKTqEea8d6P1JTl01w"
           heightDynamic="height" widthDynamic="width"/>
+      <translation uuid="_nYtPgU61EeifaPJuFumqbg"/>
       <bgColor href="../product_model.xml#N65567"/>
       <color href="../product_model.xml#N65572"/>
     </twoDElement>
     <twoDElement xsi:type="comp:TwoDText" uuid="_f9pUUFc7EeWo-40Qyxiobw"
-        name="Text3" translation="(8,24)" cursorsUsingMeForColor="_5hDdIFc7EeWo-40Qyxiobw"
+        name="Text3" cursorsUsingMeForColor="_5hDdIFc7EeWo-40Qyxiobw"
         text="Link" fontSize="16">
+      <translation uuid="_nYtPhU61EeifaPJuFumqbg" x="8.0"
+          z="24.0"/>
       <color href="../product_model.xml#N65572"/>
       <bgColor href="../product_model.xml#N65562"/>
     </twoDElement>

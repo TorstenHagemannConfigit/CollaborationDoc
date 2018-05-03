@@ -14,12 +14,15 @@
     <twoDElement xsi:type="comp:TwoDBox" uuid="_-LmWIFc6EeWo-40Qyxiobw"
         name="Box2" height="30.0" width="110.0" cursorsUsingMeForColor="_WWlTcFc7EeWo-40Qyxiobw"
         strokeWidth="2">
+      <translation uuid="_nYgbME61EeifaPJuFumqbg"/>
       <bgColor href="../product_model.xml#N65567"/>
       <color href="../product_model.xml#N65572"/>
     </twoDElement>
     <twoDElement xsi:type="comp:TwoDText" uuid="_GOiR0Fc7EeWo-40Qyxiobw"
-        name="Text2" translation="(8,22)" cursorsUsingMeForColor="_WWlTcFc7EeWo-40Qyxiobw"
+        name="Text2" cursorsUsingMeForColor="_WWlTcFc7EeWo-40Qyxiobw"
         text="Link Owner" fontSize="16">
+      <translation uuid="_nYhCQU61EeifaPJuFumqbg" x="8.0"
+          z="22.0"/>
       <color href="../product_model.xml#N65572"/>
       <bgColor href="../product_model.xml#N65562"/>
     </twoDElement>

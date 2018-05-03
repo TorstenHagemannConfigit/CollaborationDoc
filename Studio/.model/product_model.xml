@@ -23,34 +23,69 @@
     <values uuid="_6ajt8EluEeSo87hK2eA7dQ" name="green"
         editable="false" visibility="300"/>
   </domains>
-  <features deletable="false" uuid="N65557" name="DefaultCursorColor"
-      color="(255,151,0,255)"/>
-  <features deletable="false" uuid="N65562" name="DefaultTransparent"
-      color="(0,0,0,0)"/>
-  <features deletable="false" uuid="N65567" name="DefaultBgColor"
-      color="(255,255,255,255)"/>
-  <features deletable="false" uuid="N65572" name="DefaultColor"
-      color="(0,0,0,255)"/>
-  <features uuid="_Kp1yEcUWEeKomJW_sT1cVA" name="white"
-      color="(255,255,255,255)"/>
-  <features uuid="_Dvuz8ce5EeK1ILHtYeZxPw" name="black"
-      displayName="Black" color="(0,0,0,255)"/>
-  <features uuid="_42WaIce5EeK1ILHtYeZxPw" name="red"
-      displayName="Red"/>
-  <features uuid="_IBz3sce6EeK1ILHtYeZxPw" name="green"
-      displayName="Green" color="(0,255,0,255)"/>
-  <features uuid="_QXiMgce6EeK1ILHtYeZxPw" name="yellow"
-      color="(255,255,0,255)"/>
-  <features uuid="_Yoadkce6EeK1ILHtYeZxPw" name="blue"
-      displayName="Blue" color="(0,0,255,255)"/>
-  <features uuid="_PJJhEcyMEeKPWN8WJ_Qi1w" name="gray"
-      color="(100,100,100,100)"/>
-  <features uuid="_dOfPsXkVEeOQkM8a0LjIiQ" name="brown"
-      displayName="Brown" color="(148,95,3,255)"/>
-  <features uuid="_xMl9EAHyEeS27ulxLc-PaQ" name="orange"
-      color="(255,151,0,255)"/>
-  <features uuid="_zyWRMGQEEeSDd6k47owxsA" name="transparent"
-      color="(0,0,0,0)"/>
+  <features xsi:type="comp:Color" deletable="false"
+      uuid="N65557" name="DefaultCursorColor">
+    <rgbColor uuid="_nYMSIE61EeifaPJuFumqbg" red="255"
+        green="151"/>
+  </features>
+  <features xsi:type="comp:Color" deletable="false"
+      uuid="N65562" name="DefaultTransparent" alpha="0">
+    <rgbColor uuid="_nYMSIk61EeifaPJuFumqbg"/>
+  </features>
+  <features xsi:type="comp:Color" deletable="false"
+      uuid="N65567" name="DefaultBgColor">
+    <rgbColor uuid="_nYMSJE61EeifaPJuFumqbg" red="255"
+        green="255" blue="255"/>
+  </features>
+  <features xsi:type="comp:Color" deletable="false"
+      uuid="N65572" name="DefaultColor">
+    <rgbColor uuid="_nYM5MU61EeifaPJuFumqbg"/>
+  </features>
+  <features xsi:type="comp:Color" uuid="_Kp1yEcUWEeKomJW_sT1cVA"
+      name="white">
+    <rgbColor uuid="_nYM5M061EeifaPJuFumqbg" red="255"
+        green="255" blue="255"/>
+  </features>
+  <features xsi:type="comp:Color" uuid="_Dvuz8ce5EeK1ILHtYeZxPw"
+      name="black" displayName="Black">
+    <rgbColor uuid="_nYM5NU61EeifaPJuFumqbg"/>
+  </features>
+  <features xsi:type="comp:Color" uuid="_42WaIce5EeK1ILHtYeZxPw"
+      name="red" displayName="Red">
+    <rgbColor uuid="_nYM5N061EeifaPJuFumqbg" red="255"/>
+  </features>
+  <features xsi:type="comp:Color" uuid="_IBz3sce6EeK1ILHtYeZxPw"
+      name="green" displayName="Green">
+    <rgbColor uuid="_nYM5OU61EeifaPJuFumqbg" green="255"/>
+  </features>
+  <features xsi:type="comp:Color" uuid="_QXiMgce6EeK1ILHtYeZxPw"
+      name="yellow">
+    <rgbColor uuid="_nYM5O061EeifaPJuFumqbg" red="255"
+        green="255"/>
+  </features>
+  <features xsi:type="comp:Color" uuid="_Yoadkce6EeK1ILHtYeZxPw"
+      name="blue" displayName="Blue">
+    <rgbColor uuid="_nYM5PU61EeifaPJuFumqbg" blue="255"/>
+  </features>
+  <features xsi:type="comp:Color" uuid="_PJJhEcyMEeKPWN8WJ_Qi1w"
+      name="gray" alpha="100">
+    <rgbColor uuid="_nYM5P061EeifaPJuFumqbg" red="100"
+        green="100" blue="100"/>
+  </features>
+  <features xsi:type="comp:Color" uuid="_dOfPsXkVEeOQkM8a0LjIiQ"
+      name="brown" displayName="Brown">
+    <rgbColor uuid="_nYM5QU61EeifaPJuFumqbg" red="148"
+        green="95" blue="3"/>
+  </features>
+  <features xsi:type="comp:Color" uuid="_xMl9EAHyEeS27ulxLc-PaQ"
+      name="orange">
+    <rgbColor uuid="_nYM5Q061EeifaPJuFumqbg" red="255"
+        green="151"/>
+  </features>
+  <features xsi:type="comp:Color" uuid="_zyWRMGQEEeSDd6k47owxsA"
+      name="transparent" alpha="0">
+    <rgbColor uuid="_nYM5RU61EeifaPJuFumqbg"/>
+  </features>
   <tables deletable="false" uuid="_cqseUXSwEeO0QL2ZiJsN_Q"
       name="DefaultPriorityHigh">
     <rows uuid="_GIGhgaTqEea8d6P1JTl01w" in="init" out="100"/>
